@@ -1,3 +1,9 @@
+<img src="https://github.com/DSJourney/video_games/blob/master/img/banner.jpg" width="500">
+
+image by MediaPlayNews
+
+<br>
+
 # Video Game Industry Analysis
 
 **About:** This repo contains an analysis of the gaming industry
