@@ -10,7 +10,6 @@ image by Nintendo (seen at [Express](https://www.express.co.uk/entertainment/gam
 
 **Status:** In progress
 
-**Content:**
 <br>
 <br>
 <b>Report:</b> Consumer Analysis of the Analysis Industry (25th of September 2020) - Slightly adapted for the following three consoles:
