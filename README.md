@@ -12,6 +12,7 @@ image by Nintendo (seen at [Express](https://www.express.co.uk/entertainment/gam
 
 <br>
 <br>
+
 <b>Report:</b> Consumer Analysis of the Analysis Industry (25th of September 2020) - Slightly adapted for the following three consoles:
     <ul>
       <li><a href=https://github.com/DSJourney/video_games/blob/master/reports/Report_PlayStation.pdf>PlayStation</a></li>
@@ -20,9 +21,9 @@ image by Nintendo (seen at [Express](https://www.express.co.uk/entertainment/gam
     </ul>
 
 <b>Code:</b> Jupyter Notebook containing the data wrangling and exploratory data analysis.
-<ul>
-  <li><a href=https://nbviewer.jupyter.org/github/DSJourney/video_games/blob/master/video_games.ipynb>NBViewer Notebook with Analysis</a></li>
-</ul>
+    <ul>
+      <li><a href=https://nbviewer.jupyter.org/github/DSJourney/video_games/blob/master/video_games.ipynb>NBViewer Notebook with Analysis</a></li>
+    </ul>
 
 
 <br>
